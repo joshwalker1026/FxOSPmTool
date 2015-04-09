@@ -1,0 +1,34 @@
+{
+  "name": "FxOSPmTool",
+  "version": "0.0.1",
+  "description": "FxOSPmTool",
+  "main": "db.js",
+  "dependencies": {
+    "debug": "~2.1.3",
+    "cookie-parser": "~1.3.4",
+    "body-parser": "~1.12.2",
+    "ejs": "~0.8.8",
+    "method-override": "~2.3.2",
+    "jade": "~1.9.2",
+    "express": "~4.12.3",
+    "ejs-locals": "~1.0.2",
+    "mongodb": "~2.0.25",
+    "morgan": "~1.5.2",
+    "mongoose": "~3.8.25",
+    "serve-favicon": "~2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshwalker1026/FxOSPmTool.git"
+  },
+  "author": "Josh Cheng",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/joshwalker1026/FxOSPmTool/issues"
+  },
+  "homepage": "https://github.com/joshwalker1026/FxOSPmTool"
+}
